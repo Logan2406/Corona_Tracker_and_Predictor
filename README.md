@@ -122,8 +122,71 @@ information creates a clear picture of current Covid scenario in that country fo
 
 We are getting the result through web scrapping.
 
-<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Us_some_more_stats.jpg">
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Us_last_days.jpg">
  
+Here, we have fetched the corresponding statistics regarding the covid-19 confirmed, death and recovery cases for the last 30 days, through REST-API for analyzing the trend of increasing spread of corona positive people. 
+
+
+### India Info
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/India_home_stats.jpg">
+
+By clicking on the India button from home page, we are redirected to the India’s detail page.
+
+In the above screenshot, confirmed, death, and recovery statistics till now are shown in significantly colored container .we have selected India to get the details of Covid situation thoroughly.
+
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/India_states.jpg">
+
+The state wise record consisting of corona confirmed people, dead people and the people recovered from corona. In the image shown above the list of states with the corona affected, dead and recovered are shown in a box format to get the details in one page.
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/India_confirmed_states.jpg">
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/India_dead_state.jpg">
+
+
+The images show the comparative study of confirmed, dead and recovered cases in different states. This is a bar chart for analyzing the statistics. This list of the corona affected state are placed according to the decreasing order of number of people has affected in that particular state.
+
+
+### West Bengal
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_home.jpg">
+
+By clicking on the state info button from India details page, we are redirected to the corresponding state details page.
+
+In the above screenshot, confirmed, death, and recovery statistics till now are shown in significantly colored container.
+
+The percentage of affected people are calculated with respect to the population of total people in India affected and recovered from corona.
+
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_home_daily_new.jpg">
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_last.jpg">
+
+Here, confirmed, dead cases and corona recovered cases are represented in a single graph. The graphs are indicating the increasing trends of covid-19 for confirmed, death tolls well as recoveries.
+
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_prediction_curve.jpg">
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_prediction_data.jpg">
+
+Here, the predicted confirmed cases are shown for next 7 days consecutively.  From the above screenshot, we can see the Predicted result for the particular state.
+
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/Westbengal_zones.jpg">
+
+State Government and central government have classified the zones dividing the area based on the rates of spreading covid-19 on that area. This list can also indicate the current hotspot areas as Red zone, apparently moderate spreading zone –yellow Zone and Green zone where the outbreak is still less in number. 
+
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/westbengal_testing_centers.jpg">
+
+This section gives the detail of the hospitals and testing centers for corona. The testing centers are of two types Government and Private. Here the users will get all the details of the testing centers for the particular state.
+
+
+
+
+
+
+
 
 
 
