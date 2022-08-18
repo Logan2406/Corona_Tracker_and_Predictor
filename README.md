@@ -27,5 +27,5 @@ This idea had helped to analyze the situation by acting as a forewarning to thos
 
 # How the Application looks like
 
-
+<img src="https://github.com/Logan2406/Corona_Tracker_and_Predictor/blob/main/Corona_Pics/hello_page.png">
 
